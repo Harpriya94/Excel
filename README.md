@@ -8,6 +8,7 @@
 - [Bar Charts](#bar-charts)
 - [Line & Pie Chart](#line-&-pie-chart)
 - [Tree Map](#tree-map)
+- [IF Condition](#if-condition)
 - 
 
 ---
@@ -38,4 +39,7 @@
 ![](/assets/images/TreeMap.png)
 
 ---
+
+### IF Condition
+![](/assets/images/ifcondition.png)
 
