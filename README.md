@@ -8,7 +8,10 @@
 - [Bar charts](#bar-charts)
 
 ### Data Formatting
+![](/assets/images/Data Formatting.png)
 
 ### Formulas & Functions
+![](/assets/images/Formulas&Functions.png)
 
 ### Bar charts
+![](/assets/images/Bar Charts.png)
