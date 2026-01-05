@@ -5,7 +5,10 @@
 ### Table of Contents
 - [Data Formatting](#data-formatting)
 - [Formulas & Functions](#formulas-&-functions)
-- [Bar charts](#bar-charts)
+- [Bar Charts](#bar-charts)
+- [Line & Pie Chart](#line-&-pie-chart)
+- [Tree Map](#tree-map)
+- 
 
 ---
 
@@ -21,3 +24,16 @@
 
 ### Bar charts
 ![](/assets/images/BarCharts.png)
+
+---
+
+### Line & Pie Chart
+![](/assets/images/Line&PieCharts.png)
+
+---
+
+### Tree Map
+![](/assets/images/TreeMap.png)
+
+---
+
