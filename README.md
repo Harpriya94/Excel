@@ -1,6 +1,6 @@
 # 📟Excel: Basic➡️Advanced
 
-## This projects demostrates my Excel skills
+## This projects demostrates my Excel skills. -----In Progress
 
 ### Table of Contents
 - [Data Formatting](#data-formatting)
@@ -10,7 +10,6 @@
 - [Tree Map](#tree-map)
 - [IF & IFS Conditions](#if-&-ifs-conditions)
 - [AND & OR Functions](#and-&-or-functions)
-- 
 - 
 
 ---
