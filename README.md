@@ -58,3 +58,17 @@ Showcasing UPPER, LOWER, PROPER, TRIM, LEFT, RIGHT, MID, FIND and LEN functions.
 
 ![](/assets/images/TextFunctionFormulas.png)
 ![](/assets/images/TextFunctionResult.png)
+
+---
+
+### Aggregate Functions
+Showcasing COUNT, COUNTA, COUNTIF, COINTIFS, AVERAGE, MIN, MAX, SUM, SUMIF functions
+
+![](/assets/images/AggFunctionFormulas.png)
+![](/assets/images/AggFunctionResult.png)
+
+
+
+
+
+
