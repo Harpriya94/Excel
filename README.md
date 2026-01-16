@@ -2,81 +2,109 @@
 
 ## This projects demostrates my Excel skills. -----In Progress
 
-### Table of Contents
+## Table of Contents
 - [Data Formatting](#data-formatting)
-- [Formulas & Functions](#formulas-&-functions)
+- [Formulas and Functions](#formulas-and-functions)
 - [Bar Charts](#bar-charts)
-- [Line & Pie Chart](#line-&-pie-chart)
+- [Line and Pie Chart](#line-and-pie-chart)
 - [Tree Map](#tree-map)
-- [IF & IFS Conditions](#if-&-ifs-conditions)
-- [AND & OR Functions](#and-&-or-functions)
-- [Text Functions](#text-funtions)
+- [IF and IFS Conditions](#if-and-ifs-conditions)
+- [AND OR Functions](#and-or-functions)
+- [Text Functions](#text-functions)
 - [Aggregate Functions](#aggregate-functions)
 - [Pivot Tables](#pivot-tables)
+- [Data Validation](#data-validation)
 ---
 
-### Data Formatting
-![](/assets/images/DataFormatting.png)
+## Data Formatting
 
+![](/assets/images/DataFormatting.png)
+--
 ![](/assets/images/DataFormatting2.png)
 
 ---
 
-### Formulas & Functions
+## Formulas and Functions
 ![](/assets/images/Formulas&Functions.png)
 
 ---
 
-### Bar charts
+## Bar charts
 ![](/assets/images/BarCharts.png)
 
 ---
 
-### Line & Pie Chart
+## Line and Pie Chart
 ![](/assets/images/Line&PieCharts.png)
 
 ---
 
-### Tree Map
+## Tree Map
 ![](/assets/images/TreeMap.png)
 
 ---
 
-### IF & IFS Condition
+## IF and IFS Conditions
 ![](/assets/images/IfCondition.png)
+--
 ![](/assets/images/IfsCondition.png)
 
 ---
 
-### AND & OR Functions
+## AND OR Functions
 ![](/assets/images/AndFunction.png)
+--
 ![](/assets/images/OrFunction.png)
 
 ---
 
-### Text Functions
+## Text Functions
 Showcasing UPPER, LOWER, PROPER, TRIM, LEFT, RIGHT, MID, FIND and LEN functions.
 
 ![](/assets/images/TextFunctionFormulas.png)
+--
 ![](/assets/images/TextFunctionResult.png)
 
 ---
 
-### Aggregate Functions
+## Aggregate Functions
 Showcasing COUNT, COUNTA, COUNTIF, COINTIFS, AVERAGE, MIN, MAX, SUM, SUMIF functions
 
 ![](/assets/images/AggFunctionFormulas.png)
+--
 ![](/assets/images/AggFunctionResult.png)
 
 ---
 
-### Pivot Tables
+## Pivot Tables
 Showcasing Pivot Table, Pivot table chart, slicers and timeline.
 
 ![](/assets/images/PivotTableData.png)
+--
 ![](/assets/images/PivotTable.png)
 
 ----
+
+## Data Validation
+Showcasing how to setup data validation settings, input messages, error alerts and configuring drop down lists.
+
+![](/assets/images/DataValidation1.png)
+--
+![](/assets/images/DataValidation2.png)
+--
+![](/assets/images/DataValidation3.png)
+--
+![](/assets/images/DataValidation4.png)
+--
+![](/assets/images/DataValidation5.png)
+--
+![](/assets/images/DataValidation6.png)
+--
+![](/assets/images/DataValidation7.png)
+--
+![](/assets/images/DataValidation8.png)
+
+---
 
 
 
