@@ -151,6 +151,12 @@ Showcasing how to setup data validation settings, input messages, error alerts a
 
 ---
 
+## INDEX MATCH
+
+![](/assets/images/indexMatch1.png)
+--
+![](/assets/images/indexMatch2.png)
+
 
 
 
