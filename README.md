@@ -14,6 +14,18 @@
 - [Aggregate Functions](#aggregate-functions)
 - [Pivot Tables](#pivot-tables)
 - [Data Validation](#data-validation)
+- [VLOOKUP HLOOKUP](#vlookup-hlookup)
+- [XLOOKUP](#xlookup)
+- [INDEX MATCH](#index-match)
+- [Power Query](#power-query)
+- [Power Pivot](#power-pivot)
+- [Data Visualization](#data-visualization)
+- [Array Functions](#array-functions)
+- [Data Quality](#data-quality)
+- [Data Cleaning](#data-cleaning)
+- [Macros](#macros)
+- [VBA Forms](#vba-forms)
+  
 ---
 
 ## Data Formatting
