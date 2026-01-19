@@ -164,18 +164,35 @@ Showcasing how to setup data validation settings, input messages, error alerts a
 ![](/assets/images/PowerQueryRawData.png)
 --
 ![](/assets/images/PowerQuery1.png)
----
+--
 ![](/assets/images/PowerQuery2.png)
----
+--
 ![](/assets/images/PowerQuery3.png)
----
+--
 ![](/assets/images/PowerQuery4.png)
----
+--
 ![](/assets/images/PowerQuery5.png)
----
+--
 ![](/assets/images/PowerQuery6.png)
----
+--
 ![](/assets/images/PowerQuery7.png)
+--
+
+Loading data from SQL server and applying LEFT JOIN using power query to merge data into excel
+
+![](/assets/images/PowerQuery8.png)
+--
+![](/assets/images/PowerQuery9.png)
+--
+![](/assets/images/PowerQuery10.png)
+--
+![](/assets/images/PowerQuery11.png)
+--
+![](/assets/images/PowerQuery12.png)
+--
+![](/assets/images/PowerQuery13.png)
+--
+![](/assets/images/PowerQuery14.png)
 
 ---
 
