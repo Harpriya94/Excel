@@ -19,7 +19,6 @@
 - [INDEX MATCH](#index-match)
 - [Power Query](#power-query)
 - [Power Pivot](#power-pivot)
-- [Data Visualization](#data-visualization)
 - [Array Functions](#array-functions)
 - [Data Quality](#data-quality)
 - [Data Cleaning](#data-cleaning)
